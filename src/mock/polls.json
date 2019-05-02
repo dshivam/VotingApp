@@ -1,0 +1,76 @@
+[
+    {
+        "pollName": "Indian Parliamentary Elections 2019",
+        "id": 1,
+        "creator": "admin",
+        "pollQuestion": "Who will be the Prime Minister after elections?",
+        "options": [
+            {
+            "option": "Rahul Gandhi",
+            "vote": 2,
+            "color": "#FF6384"
+            },
+            {
+            "option": "Narendra Modi",
+            "vote": 2,
+            "color": "#36A2EB"
+            },
+            {
+            "option": "Mayawati",
+            "vote": 1,
+            "color": "#FFCE56"
+            }
+    ]
+    },
+    {
+        "pollName": "ICC World Cup 2019",
+        "id": 2,
+        "creator": "admin",
+        "pollQuestion": "Which team will win the world cup?",
+        "options": [
+            {
+            "option": "India",
+            "vote": 2,
+            "color": "#FF6384"
+            },
+            {
+            "option": "England",
+            "vote": 2,
+            "color": "#36A2EB"
+            },
+            {
+            "option": "Australia",
+            "vote": 1,
+            "color": "#FFCE56"
+            }
+    ]
+    },
+    {
+        "pollName": "End Game",
+        "id": 3,
+        "creator": "admin",
+        "pollQuestion": "Who will die in Avengers End Game?",
+        "options": [
+            {
+            "option": "Tony Stark",
+            "vote": 2,
+            "color": "#FF6384"
+            },
+            {
+            "option": "Captain America",
+            "vote": 2,
+            "color": "#36A2EB"
+            },
+            {
+            "option": "Thor",
+            "vote": 1,
+            "color": "#FFCE56"
+            },
+            {
+                "option": "All",
+                "vote": 3,
+                "color": "orange"
+            }
+    ]
+    }
+]

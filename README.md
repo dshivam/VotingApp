@@ -9,11 +9,11 @@ It has following major components-
 
 Please follow following steps to run the App:
 
-# Start Server
+## Start Server
 
 First of All Start the nodejs server. Go inside VotingApp->src and run command - 'node server.js'
 
-# Install Packages
+## Install Packages
 
 Go inside VotingApp directory and run command -> 'npm install'
 
